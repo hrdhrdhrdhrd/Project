@@ -30,8 +30,9 @@
 ![](航线维修增强现实系统/tools.png)
 ## 配置
 **运行环境** 
-1. Operation System: Windows 7及以上
+1. Operation System: Android 4.4及以上
 2. Unity3d 2017.3.0f3
+3. Vuforia 7.5
 4. Visual Studio 2017
 5. CATIA V5R20
 6. 3dsMAX 2018
@@ -46,28 +47,10 @@
 ![](民航博物馆/tools.png)
 ## 配置
 **运行环境** 
-1. Operation System: Android 4.4及以上
+1. Operation System: Windows 7及以上
 2. Unity3d 2017.3.0f3
-3. Vuforia 7.5
-4. Visual Studio 2017
-5. CATIA V5R20
-6. 3dsMAX 2018
+3. Visual Studio 2017
+4. CATIA V5R20
+5. 3dsMAX 2018
 ## 截图
 ![](民航博物馆/index.png)
-# 幸福巢社区老人志愿服务网
-## 主要功能
-志愿服务申请，志愿者匹配，数据管理，后台审核，评价等相关功能。
-## 实现
-该项目获得湖南省挑战杯省赛三等奖。
-## 工具&框架
-![](幸福巢社区老人志愿服务网/tools.png)
-## 配置
-**运行环境** 
-1. Operation System: Android 4.4及以上
-2. Unity3d 2017.3.0f3
-3. Vuforia 7.5
-4. Visual Studio 2017
-5. CATIA V5R20
-6. 3dsMAX 2018
-## 截图
-![](幸福巢社区老人志愿服务网/index.png)
