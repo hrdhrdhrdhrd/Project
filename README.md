@@ -6,6 +6,13 @@
 ## 工具&框架
 ![](航空器维修无人车平台/tools.png)
 ## 配置
+**Recommended Running Environment** 
+
+1. Operation System: Mac OS X or Linux or Windows
+3. Python 3.5.2
+6. composer
+
+**php7.0-gmp**
 ## 截图
 ![](航空器维修无人车平台/index.png)
 2018年9月 - 2019年6月
